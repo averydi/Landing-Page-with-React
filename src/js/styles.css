@@ -6,12 +6,13 @@ body {
     margin: 0;
 }
 
-.container {
-    margin: 1rem;
+.container-fluid {
     text-align: center;
-
+    background-color: rgb(201, 149, 158);
 }
-
+.jumbo-title {
+    text-align: center;
+}
 .nav {
     background-color: gray;
     color: whitesmoke;
@@ -46,7 +47,4 @@ body {
     background-color: darkgreen;
     color:gold;
     font-family:cursive;
-}
-.container{
-    background-color: rgb(201, 149, 158);
 }
